@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-sendgrid-basic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@sendgrid/mail": "^7.4.2",
+    "dotenv": "^8.2.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
